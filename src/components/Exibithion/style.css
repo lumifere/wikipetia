@@ -1,0 +1,16 @@
+.exibithion {
+    width: 1100px;
+    height: 676px;
+    border-radius: 20px;
+    border: 3px solid black;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.exibithion img {
+    object-fit: cover;
+    width: 1100px;
+    height: 672px;
+    border-radius: 20px;
+}

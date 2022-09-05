@@ -1,0 +1,20 @@
+footer {
+    display: flex;
+    justify-content: center;
+    border-top: 1px solid #000000;
+    width: 100%;
+    padding: 4px 5px;
+    background-color: #D9D9D9;
+}
+
+footer .container {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-weight: bold;
+    width: 16%;
+}
+
+footer img {
+    height: 2.5vh;
+}
