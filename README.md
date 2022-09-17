@@ -1,4 +1,4 @@
-# 😺️ WikiPETia 🐶️
+# 😺️ Wikipetia 🐶️
 Projeto criado como um dos requisitos necessário para me tornar Tech Lead na EJCM.
 
 ## Instruções
