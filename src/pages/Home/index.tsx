@@ -4,13 +4,13 @@ import Main from '../../components/Main';
 import './style.css';
 
 function Home() {
-    return (
-        <body>
-            <Header />
-            <Main />
-            <Footer />
-        </body>
-    )
+  return (
+    <body>
+      <Header />
+      <Main />
+      <Footer />
+    </body>
+  )
 }
 
 export default Home;

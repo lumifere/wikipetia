@@ -4,7 +4,7 @@ import Home from './pages/Home';
 import About from './pages/About';
 import './style.css';
 
-export default function App() {
+function App() {
   return (
     <BrowserRouter>
       <Routes>
@@ -14,3 +14,5 @@ export default function App() {
     </BrowserRouter>
   );
 }
+
+export default App;
